@@ -1,0 +1,8 @@
+Talks
+7. Kraskiewicz-Pragacz加群とSchubert正値性, 組合せ論セミナー, 名古屋大学, 2015年1月
+6. Structure of Schubert modules and Filtration by Schubert modules, 第3回シューベルトカルキュラスとその周辺, 岡山理科大学, 2014年8月
+5. Schubert加群の構造とSchubert加群によるfiltrationについて, Lie群・表現論セミナー, 東京大学, 2014年5月
+4. 対称群の指標値の間のある関係について, 組合せ論セミナー, 名古屋大学, 2013年9月
+3. 対称群の指標値の間のある関係について, 上智大学, 2012年12月
+2. On a relation between certain character values of symmetric groups, Lie群・表現論セミナー, 2012年11月
+1. On a relation between certain character values of symmetric groups, 組合せ論的表現論とその周辺, 京都大学, 2012年10月
