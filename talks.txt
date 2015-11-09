@@ -1,4 +1,8 @@
 Talks
+11. Schubert polynomials and Kraskiewicz-Pragacz modules, UW Combinatorics seminar, University of Washington, 2015年10月
+10. Schubert polynomials and Kraskiewicz-Pragacz modules, University of Michigan Combinatorics seminar, University of Michigan, 2015年10月
+9. Schubert polynomials and Kraskiewicz-Pragacz modules, MIT Combinatorics seminar, MIT, 2015年10月
+8. Kraskiewicz-Pragacz modules and some positivity properties of Schubert polynomials, FPSAC 2015, Daejeon, 2015年7月
 7. Kraskiewicz-Pragacz加群とSchubert正値性, 組合せ論セミナー, 名古屋大学, 2015年1月
 6. Structure of Schubert modules and Filtration by Schubert modules, 第3回シューベルトカルキュラスとその周辺, 岡山理科大学, 2014年8月
 5. Schubert加群の構造とSchubert加群によるfiltrationについて, Lie群・表現論セミナー, 東京大学, 2014年5月
